@@ -18,12 +18,12 @@ npx cap sync
 * [`closeSerial()`](#closeserial)
 * [`readSerial()`](#readserial)
 * [`writeSerial(...)`](#writeserial)
-* [`addListener('log', ...)`](#addlistenerlog)
-* [`addListener('connected', ...)`](#addlistenerconnected)
-* [`addListener('attached', ...)`](#addlistenerattached)
-* [`addListener('detached', ...)`](#addlistenerdetached)
-* [`addListener('data', ...)`](#addlistenerdata)
-* [`addListener('error', ...)`](#addlistenererror)
+* [`addListener('log', ...)`](#addlistenerlog-)
+* [`addListener('connected', ...)`](#addlistenerconnected-)
+* [`addListener('attached', ...)`](#addlistenerattached-)
+* [`addListener('detached', ...)`](#addlistenerdetached-)
+* [`addListener('data', ...)`](#addlistenerdata-)
+* [`addListener('error', ...)`](#addlistenererror-)
 * [Interfaces](#interfaces)
 
 </docgen-index>
